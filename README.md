@@ -1,0 +1,1 @@
+# gitops-eks-k8sconfig
